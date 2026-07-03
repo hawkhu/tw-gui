@@ -40393,7 +40393,7 @@ const ProjectFetcherHOC = function ProjectFetcherHOC(WrappedComponent) {
     vm: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.instanceOf(scratch_vm__WEBPACK_IMPORTED_MODULE_10___default.a)
   };
   ProjectFetcherComponent.defaultProps = {
-    assetHost: 'https://turbo.daliao.eu.org',
+    assetHost: 'https://turbo.daliao.eu.org/static',
     projectHost: 'https://turbo.daliao.eu.org'
   };
   const mapStateToProps = state => ({
